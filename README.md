@@ -5,7 +5,7 @@ Descubrí mi pasión por el código después de haber estudiado una carrera univ
 - Actualmente estoy realizando un bootcamp intensivo de Desarrollo Web.
 - Tengo conocimientos en Html5, Css3 y Javascript.
 - Actualmente estoy estudiando Inglés.
-- Iniciaré un proyecto con Node.js.
+- Iniciaré un proyecto con React.
 - Puedes contactarme por erika.duarte.mora@gmail.com
 
 ![](https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif)
