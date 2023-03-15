@@ -4,11 +4,10 @@
 
 Descubrí mi pasión por el código después de haber estudiado una carrera universitaria totalmente distinta; esto me llevo a dar un giro de 180° a mi vida para dedicarme a programar.
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pinyon+Script&size=30&duration=7000&pause=1000&color=650BA3&center=true&repeat=false&width=500&height=60&lines=About+me)](https://git.io/typing-svg)
-- Actualmente estoy realizando un bootcamp intensivo de Desarrollo Web.
-- Actualmente estoy estudiando :book: Inglés.
-- Iniciaré un proyecto con React.
+- Tengo una Especialización en Desarrollo web Front-end que obtuve mediante un bootcamp intensivo.
+- Actualmente estoy aprendiendo :book: Inglés.
+- Actualmente estoy aprendiendo React.
 - Puedes contactarme por:
 <p >
 <a href = "https://www.linkedin.com/in/erika-duarte-mora/"> <img src="https://img.icons8.com/arcade/64/null/linkedin.png"/> </a>
