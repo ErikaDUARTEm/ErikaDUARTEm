@@ -8,6 +8,7 @@ Descubrí mi pasión por el código después de haber estudiado una carrera univ
 - Complete una Especialización en Desarrollo web Front-end que obtuve mediante un bootcamp intensivo.
 - Complete una Especialización en Desarrollo Backend con Java en el programa One next Education de Alura Latam y Oracle.
 - Complete un training en Desarrollo Full Stack con Java y Angular en SofkaU.
+- Cursando Técnico en programación de software en el Sena. 
 - Puedes contactarme por:
 <p >
 <a href = "https://www.linkedin.com/in/erika-duarte-mora/"> <img src="https://img.icons8.com/arcade/64/null/linkedin.png"/> </a>
